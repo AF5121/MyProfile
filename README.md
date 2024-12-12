@@ -45,7 +45,7 @@
 
 * OS
   * Windows
-  * Linux
+  * Linux(RHEL, CentOS)
 * 仮想化技術
   * VMware
   * Hyper-V
