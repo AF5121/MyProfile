@@ -42,7 +42,7 @@
  * CLF
  * SAA
  * SAP
- * 
+ * DOP, DVA, DBS, SCS, ANS, DAS, MLS, SOA
 
 ## プロジェクト実績
 
