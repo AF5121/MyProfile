@@ -37,12 +37,12 @@
 
 ## 現在のポジション
 
-## 今後のキャリアプラン, 志向性
+## 今後のキャリアプラン, 目標
 * AWS認定資格のコンプリート
- * CLF
- * SAA
- * SAP
- * DOP, DVA, DBS, SCS, ANS, DAS, MLS, SOA
+  * CLF
+  * SAA
+  * SAP
+  * DOP, DVA, DBS, SCS, ANS, DAS, MLS, SOA
 
 ## プロジェクト実績
 
